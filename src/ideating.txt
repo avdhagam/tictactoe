@@ -1,0 +1,15 @@
+design patterns used:
+
+factory
+strategy
+observer
+
+main class:
+take input - size of board, no of players
+create a tictactoe game object using the size
+for each player in the no of players, let the user choose whether the player is a bot or a human and then create the player using factory
+start the game
+
+game class/ tictactoe class:
+we should be able to add a player
+game.play () should be there
